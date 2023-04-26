@@ -2,4 +2,5 @@ Landing Page com Bootstrap.
 
 Formulário para cadastro de um jogador de League Of Legends para uma comunidade de jogadores.
 
-![page](https://user-images.githubusercontent.com/103474553/234684131-29c4731d-4e68-4411-97ea-7b54a823c5ce.png)
+![pageLol](https://user-images.githubusercontent.com/103474553/234686326-7c24d8a6-9477-4985-b94f-49b717e437e3.png)
+
